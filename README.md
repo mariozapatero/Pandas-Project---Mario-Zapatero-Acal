@@ -28,10 +28,13 @@ Te animo a echarle un vistazo si quieres estar un poquito más cerca de converti
 ¡Muchas gracias y hasta pronto!
 
 
-Tech stack:
+---
+
+
+**Tech stack**:
    
-    Librerías utilizadas:
+Librerías utilizadas:
     
-        - Manejo de DataFrames: [pandas](https://pandas.pydata.org/).
+- Manejo de DataFrames: [pandas](https://pandas.pydata.org/) .
         
-        - Visualización: [plotly.express](https://plotly.com/python/plotly-express/).
+- Visualización: [plotly.express](https://plotly.com/python/plotly-express/) .
