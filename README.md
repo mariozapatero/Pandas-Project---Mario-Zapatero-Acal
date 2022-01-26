@@ -28,10 +28,10 @@ Te animo a echarle un vistazo si quieres estar un poquito más cerca de converti
 ¡Muchas gracias y hasta pronto!
 
 
-Anexos:
-
+Tech stack:
+   
     Librerías utilizadas:
     
-        - Manejo de DataFrames: pandas.
+        - Manejo de DataFrames: [pandas](https://pandas.pydata.org/).
         
-        - Visualización: plotly.express.
+        - Visualización: [plotly.express](https://plotly.com/python/plotly-express/).
