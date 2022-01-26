@@ -30,5 +30,7 @@ Te animo a echarle un vistazo si quieres estar un poquito más cerca de converti
 
 Anexos:
     Librerías utilizadas:
+    
         - Manejo de DataFrames: pandas.
+        
         - Visualización: plotly.express.
