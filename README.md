@@ -1,7 +1,7 @@
 <img src= "images/Portada_Pandas_Project.png">
 
 
-# Pandas Project - Mario Zapatero Acal
+# Data Cleaning & Visualization Project
 
 Este proyecto surge a partir de una base de datos ([Global Shark Attacks](https://www.kaggle.com/teajay/global-shark-attacks)) acerca del histórico de ataques de tiburón a humanos en todo el mundo.
 
