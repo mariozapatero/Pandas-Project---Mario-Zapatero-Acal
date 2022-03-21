@@ -3,7 +3,7 @@
 
 # Data Cleaning & Visualization Project
 
-Este proyecto surge a partir de una base de datos ([Global Shark Attacks](https://www.kaggle.com/teajay/global-shark-attacks)) acerca del histórico de ataques de tiburón a humanos en todo el mundo.
+El proyecto se desarrolla a partir de un dataset ([Global Shark Attacks](https://www.kaggle.com/teajay/global-shark-attacks)) que recoge el histórico de ataques de tiburón a humanos en todo el mundo.
 
 En base a la información disponible, se plantean dos **hipótesis** que pretenden dar respuesta a dos de los mayores clichés entorno a los ataques de estos animales:
 
