@@ -36,7 +36,7 @@ Te animo a echarle un vistazo si quieres estar un poquito más cerca de converti
 ---
 
 
-### Tech stack**
+### Tech stack
    
 Librerías utilizadas:
     
