@@ -11,9 +11,14 @@ En base a la información disponible, se plantean dos **hipótesis** que pretend
     
     2. "La mayoría de los ataques de tiburón a humanos en el mundo provocan la muerte de la víctima."
     
-El **objetivo** del proyecto es comprobar si estas dos hipótesis se cumplen o no, siempre en base a los datos disponibles.
 
-Para ello, el desarrollo del proyecto se estructura en tres **etapas clave**:
+### Objetivo
+
+El objetivo del proyecto es comprobar si estas dos hipótesis se cumplen o no, siempre en base a los datos disponibles.
+
+
+### Etapas del Proceso
+Para ello, el desarrollo del proyecto se estructura en tres etapas clave:
 
 * Análisis exploratorio: exploración inicial para comprender los datos y la información que nos aportan.
     
@@ -31,7 +36,7 @@ Te animo a echarle un vistazo si quieres estar un poquito más cerca de converti
 ---
 
 
-**Tech stack**:
+### Tech stack**
    
 Librerías utilizadas:
     
