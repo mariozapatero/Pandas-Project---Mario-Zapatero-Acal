@@ -20,11 +20,11 @@ El objetivo del proyecto es comprobar si estas dos hipótesis se cumplen o no, s
 ### Etapas del Proceso
 Para ello, el desarrollo del proyecto se estructura en tres etapas clave:
 
-* Análisis exploratorio: exploración inicial para comprender los datos y la información que nos aportan.
+* **Análisis exploratorio**: exploración inicial para comprender los datos y la información que nos aportan.
     
-* Limpieza de datos: los datos utilizados para la elaboración de este proyecto contienen información de mucho valor, pero son muy diversos y están mal estructurados (hay muchos valores nulos y no existe una normalización de los datos, lo cual implica muchos problemas a la hora de explotarlos). Por ello, será fundamental pasar por una etapa de limpieza que nos permita trabajar y extraer conclusiones. Quizá esta etapa sea la más importantes para poder alcanzar el objetivo y también la que mayr carga de trabajo supone.
+* **Limpieza de datos**: los datos utilizados para la elaboración de este proyecto contienen información de mucho valor, pero son muy diversos y están mal estructurados (hay muchos valores nulos y no existe una normalización de los datos, lo cual implica muchos problemas a la hora de explotarlos). Por ello, será fundamental pasar por una etapa de limpieza que nos permita trabajar y extraer conclusiones. Quizá esta etapa sea la más importantes para poder alcanzar el objetivo y también la que mayr carga de trabajo supone.
     
-* Visualización de resultados: se refiere a la elaboración de diferentes gráficos que aporten información de valor y nos permitan alcanzar el objetivo del proyecto (comprobar si las hipótesis planteadas se corresponden con la realidad).
+* **Visualización de resultados**: se refiere a la elaboración de diferentes gráficos que aporten información de valor y nos permitan alcanzar el objetivo del proyecto (comprobar si las hipótesis planteadas se corresponden con la realidad).
 
 Como resultado final, apoyándonos en los datos disponibles y diferentes visualizaciones sobre ellos, comprobaremos cada una de la hipótesis planteadas y (AVISO de mini SPOILER) nos llevaremos alguna sorpresa.
 
